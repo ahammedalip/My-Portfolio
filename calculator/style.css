@@ -1,0 +1,28 @@
+.calculator{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin-left: 500px;
+    margin-top: 30px;
+    background-color: beige;
+}
+
+#screen{
+    width: 85%;
+    border-color: bisque;
+    margin-top: 20px;
+    margin-left: 25px;
+    height: 30px;
+    background-color: antiquewhite;
+    pointer-events: none;
+
+}
+.btn{
+    width: 64px;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 30px;
+    background: #b3b3a8;
+    border: firebrick;
+    
+}
